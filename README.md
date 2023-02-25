@@ -13,7 +13,7 @@ A collection of vignettes I wrote to explore basic computational ecology skills 
 
 Collection of taxa that were compiled for Ecology Msc
 
-MSc final project is [here](https://scra88le.github.io/Final_project/blob/master/_main.html) 
+MSc final project is [here](https://scra88le.github.io/Final_project/) 
 
 Other random stuff
 
