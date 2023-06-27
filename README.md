@@ -17,4 +17,4 @@ MSc final project is [here](https://scra88le.github.io/Final_project/)
 
 **Other random stuff**
 
-Orchid collections are [here](https://github.com/scra88le/taxonomySca88le/blob/master/_posts/2019-5-30-Orchidaceae.html)
+Orchid collections are [here](https://scra88le.github.io/orchidaceae.html)
