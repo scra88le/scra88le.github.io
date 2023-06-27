@@ -17,4 +17,4 @@ MSc final project is [here](https://scra88le.github.io/Final_project/)
 
 Other random stuff
 
-Taxonomy collections are [here](https://github.com/scra88le/taxonomySca88le)
+Taxonomy collections are [here](https://github.com/scra88le/taxonomy)
