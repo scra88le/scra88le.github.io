@@ -15,6 +15,6 @@ Collection of taxa that were compiled for Ecology Msc
 
 MSc final project is [here](https://scra88le.github.io/Final_project/) 
 
-Other random stuff
+**Other random stuff**
 
 Orchid collections are [here](https://scra88le.github.io/orchidaceae.md)
